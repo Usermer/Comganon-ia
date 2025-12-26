@@ -191,34 +191,6 @@ python embeddings_chroma.py
 ollama pull nomic-embed-text
 ```
 
-## 📊 Performances
 
-| Opération | Temps moyen |
-|-----------|-------------|
-| Chargement PDF | ~2-5s |
-| Recherche ChromaDB | ~0.5s |
-| Génération réponse | ~3-10s |
-| Recommandations | ~0.2s |
-
-## 🤝 Contribuer
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- 🐛 Signaler des bugs
-- 💡 Proposer de nouvelles fonctionnalités
-- 📝 Améliorer la documentation
-
-## 📄 Licence
-
-MIT License - Voir le fichier LICENSE pour plus de détails
-
-## 🙏 Remerciements
-
-- [LangChain](https://langchain.com)
-- [Ollama](https://ollama.com)
-- [ChromaDB](https://www.trychroma.com)
-- [Gradio](https://gradio.app)
-- [PEEKC Dataset](https://github.com/PEEKC/PEEKC-Dataset)
-
----
 
 Développé avec ❤️ par [Usermer](https://github.com/Usermer)
